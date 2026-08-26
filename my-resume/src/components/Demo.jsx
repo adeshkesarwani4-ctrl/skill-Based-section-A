@@ -1,8 +1,9 @@
 function Demo(){
     return(
         <>
-        Hello I'm Learning React.
-        </>
+       <h1>Adesh Kesharwani</h1> 
+       <p>UIT, Prayagraj</p>
+               </>
     );
 }
 export default Demo;
